@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Infx-zero/Infx-zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Suyog Bhagwat
 
-Here are some ideas to get you started:
+🎓 Computer Science Student | Full Stack Developer  
+📍 Amravati, Maharashtra  
+💡 I love building real-world applications with Python, Flask, and SQL  
+📌 Currently working on: ---------
+🌱 Always learning — Backend, AI, DevOps, and clean architecture  
+📫 Connect with me: www.linkedin.com/in/suyog-bhagwat-243743278
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- Python, Flask, C, C++, Java
+- HTML5, CSS3, JavaScript, Bootstrap
+- MySQL, MariaDB
+- Git & GitHub
