@@ -12,7 +12,7 @@
 🌱 Continuously learning — Backend Engineering, DSA, Cloud, and Automation
 
 📫 Connect with me:
-www.linkedin.com/in/suyog-bhagwat-243743278
+www.linkedin.com/in/suyog-bhagwat-82277b3b2
 
 ---
 
